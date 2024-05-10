@@ -1,0 +1,10 @@
+torch
+transformers
+gunicorn
+gradio
+sentencepiece
+sacremoses
+urllib3
+requests
+pandas
+huggingface-hub
